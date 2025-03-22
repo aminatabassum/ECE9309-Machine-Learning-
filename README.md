@@ -1,3 +1,3 @@
 # ECE9309-Machine-Learning-
 
-# Slight changes to run SwinTransformer and UNET Transformer 
+ Instructions to run swin and unetr files  
