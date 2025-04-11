@@ -1,6 +1,6 @@
 # ECE9309-Machine-Learning-
 
- Instructions to run swin, unetr, and Unet_CNN files.
+ Instructions to run SwinUnet, UNetR, and Unet_CNN files.
 
  For all models, need to add the video data in a folder named 'a4c-video-dir/' as the data is too large to upload to github.  
 
